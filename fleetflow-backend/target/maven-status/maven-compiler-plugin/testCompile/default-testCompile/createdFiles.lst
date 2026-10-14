@@ -1,0 +1,5 @@
+com\fleetflow\algorithms\graph\DijkstraAlgorithmTest.class
+com\fleetflow\algorithms\graph\BipartiteMatchingAlgorithmTest.class
+com\fleetflow\algorithms\dp\LevenshteinAlgorithmTest.class
+com\fleetflow\algorithms\string\KMPAlgorithmTest.class
+com\fleetflow\algorithms\graph\FordFulkersonAlgorithmTest.class
